@@ -1,1 +1,1 @@
-OTSU and Snake Implmenattaion
+OTSU and Snake Implemenatation
