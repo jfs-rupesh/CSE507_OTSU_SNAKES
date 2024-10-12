@@ -1,1 +1,1 @@
-# CSE507_OTSU_SNAKES
+OTSU and Snake Implmenattaion
